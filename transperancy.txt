@@ -1,4 +1,6 @@
 Global Transparency Reporting:
+[200~Open your GitHub account and click on the profile picture on the top right. It will show you a dropdown, where you will select the settings option. As shown below: On the left panel that will show up, select “Developer Setting” like so: Click on “Personal access tokens” first and then click on “Generate new token” as shown below:
+
 
 Orthofix recognizes its obligation to facilitate ethical interactions with health care professionals (HCPs), which helps ensure that medical decisions are based on the best interests of the patient. 
 Collaboration between the medical device industry and HCPs improves patient care and advances technology treatment options.  
